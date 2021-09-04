@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.Norio4.backlinksInExport",
+	"app_min_version": "2.2",
+	"version": "1.0.0",
+	"name": "backlinks-in-export",
+	"description": "Creates backlinks to notes in executing export commands.",
+	"author": "Norio4",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": []
+}
